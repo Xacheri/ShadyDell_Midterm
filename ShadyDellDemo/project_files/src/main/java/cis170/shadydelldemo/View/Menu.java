@@ -373,7 +373,7 @@ public class Menu {
                             break;
                     }
                     terminal.print("Saving..."); // make it feel important
-                    terminal.print("The new address is: "+person.type); // confirm result
+                    terminal.print("The new type is: "+person.type); // confirm result
                 }
                 case "10" -> {
                     // Edit courses
